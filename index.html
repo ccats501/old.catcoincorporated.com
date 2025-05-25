@@ -20,6 +20,24 @@
       font-size: 1.1rem;
       font-weight: bold;
       letter-spacing: 0.5px;
+      position: relative; /* Needed for absolute positioning of the button */
+    }
+
+    .top-banner .banner-button {
+      position: absolute;
+      top: 50%;
+      right: 1rem; /* Adjust as needed for spacing */
+      transform: translateY(-50%);
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 0.5rem 1rem;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 0.9rem;
+      cursor: pointer;
+      border-radius: 5px;
     }
 
     header {
@@ -118,6 +136,7 @@
 
   <div class="top-banner">
     CatCoincorporated Test Website
+    <a href="pics-vid.html" class="banner-button">Pics & Vids</a>
   </div>
 
   <header>
