@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+
+<wml>
+  <card id="main" title="CatCo Test">
+    <p align="center">
+      <b>CatCoincorporated Test Website</b>
+    </p>
+
+    <p align="center">
+      <b>huh ?</b>
+    </p>
+
+    <p>
+      <b>how did you get here ??????</b>
+      <br/>
+      No like how did you get here tell me here
+    </p>
+
+    <p>
+      Email: <a href="mailto:cat-co-admin@catcoincoorporated.com">cat-co-admin@catcoincoorporated.com</a>
+      <br/>
+      Phone: (210)-636-3357
+      <br/>
+      <a href="mailto:cat7111@gmail.com">cat7111@gmail.com</a> to contact me
+    </p>
+
+    <p>
+      Visitor counter: 165
+    </p>
+
+    <p>
+      <a href="https://www.catcoincorporated.com">Go to Cat.Co Incorporated</a>
+      <br/>
+      <a href="about.wml">About</a>
+      <br/>
+      <a href="pics-vid.wml">Pics &amp; Vids</a>
+    </p>
+  </card>
+</wml>
