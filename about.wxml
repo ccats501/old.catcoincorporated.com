@@ -1,0 +1,28 @@
+<view class="page-container">
+  
+  <view class="top-banner">
+    <text>CatCoincorporated Test Website</text>
+  </view>
+  
+  <view class="main-content">
+    <view class="content">
+      <view class="title">About</view>
+      
+      <view class="paragraph">
+        <text>Welcome to the About page for the cat.co incorporated test site</text>
+      </view>
+      <view class="paragraph">
+        <text>Hi my name is Phoneix and i host this web site for fun I dont know if you like it or not but this is all for fun</text>
+      </view>
+      <view class="paragraph">
+        <text>Tiktok @furryposter69</text>
+      </view>
+      
+      <navigator url="/pages/index/index" open-type="navigate" class="link">
+        <text>← Back to Home</text>
+      </navigator>
+      
+    </view>
+  </view>
+  
+</view>
